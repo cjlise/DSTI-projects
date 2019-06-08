@@ -3,7 +3,7 @@
 ```Python
 def fitnessFunc(x):
     m = 1 + math.cos(0.04 * x)**2
-    n = math.exp(-x**2/200000.0)
+    n = math.exp(-x**2/20000.0)
     return m * n 
 ```
 
