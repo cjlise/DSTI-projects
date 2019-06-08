@@ -6,4 +6,6 @@ def fitnessFunc(x):
     n = math.exp(-x**2/200000.0)
     return m * n 
 
+## EXERCISE 2
+Wave fitness
 
