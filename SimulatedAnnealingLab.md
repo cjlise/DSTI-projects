@@ -13,5 +13,6 @@ Wave fitness
 
 
 ## EXERCISE 3
-The chart of the trajectory of the annealing algorithm along the fitness surface is displayed below:
+The chart of the trajectory of the annealing algorithm with T=10 along the fitness surface is displayed below:
+![Annealing alogorithm](https://github.com/cjlise/DSTI-projects/blob/master/AnnealingT10.png)
 
