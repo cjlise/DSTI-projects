@@ -12,4 +12,6 @@ Wave fitness
 ![Wave fitness](https://github.com/cjlise/DSTI-projects/blob/master/python_WaveFitness.png)
 
 
+## EXERCISE 3
+The chart of the trajectory of the annealing algorithm along the fitness surface is displayed below:
 
