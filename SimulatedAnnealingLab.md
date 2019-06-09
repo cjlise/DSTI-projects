@@ -20,4 +20,4 @@ The chart of the trajectory of the annealing algorithm with T=10 along the fitne
 ## EXERCISE 4 
 Intermediate best fitness versus iteration number chart: 
 
-![Intermediate best fitness versus iteration number]()
+![Intermediate best fitness versus iteration number](https://github.com/cjlise/DSTI-projects/blob/master/SAnnealing-Ex4.png)
