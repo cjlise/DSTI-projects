@@ -16,3 +16,8 @@ Wave fitness
 The chart of the trajectory of the annealing algorithm with T=10 along the fitness surface is displayed below:
 ![Annealing alogorithm](https://github.com/cjlise/DSTI-projects/blob/master/SAnnealing-Ex3.png)
 
+
+## EXERCISE 4 
+Intermediate best fitness versus iteration number chart: 
+
+![Intermediate best fitness versus iteration number]()
